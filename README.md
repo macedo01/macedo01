@@ -1,6 +1,6 @@
 ## Hi y'all 
 
-<img src="https://giphy.com/embed/qb1eHxhUHLdsc" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://giphy.com/embed/qb1eHxhUHLdsc" width="480" height="268" frameBorder="0" class="giphy-embed"></img>
 
 <div>
   <img align="center" alt="Macedo-Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
