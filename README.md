@@ -1,7 +1,7 @@
 ## Hi y'all 
 
 <div align="center">
-  <img src= "https://giphy.com/gifs/hxh-killua-qb1eHxhUHLdsc">
+  <img src= "[https://giphy.com/gifs/hxh-killua-qb1eHxhUHLdsc](https://giphy.com/embed/qb1eHxhUHLdsc)">
 </div>
 
 <div>
