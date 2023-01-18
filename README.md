@@ -1,7 +1,7 @@
 ## Hi y'all 
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/qb1eHxhUHLdsc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/gifs/hxh-killua-qb1eHxhUHLdsc?utm_term=">
 </div>
 
 <div>
