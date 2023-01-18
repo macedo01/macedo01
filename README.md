@@ -2,7 +2,7 @@
 
 <div>
  
-     ![giphy](https://user-images.githubusercontent.com/89888198/213287284-e855c297-614c-4e55-87cf-c64c18e2f03e.gif)
+  <div>![giphy](https://user-images.githubusercontent.com/89888198/213287769-b4d78464-a121-4485-82b6-87e05988195c.gif)</div>
   
   <div>
     <img align="center" alt="Macedo-Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
