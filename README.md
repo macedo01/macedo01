@@ -1,6 +1,6 @@
 ## Hi y'all 
 
-<div align="center">
+<div>
  
      ![giphy](https://user-images.githubusercontent.com/89888198/213287284-e855c297-614c-4e55-87cf-c64c18e2f03e.gif)
   
