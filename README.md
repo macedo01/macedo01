@@ -1,10 +1,8 @@
 ## Hi y'all 
 
-<div>
-  
-  <div>
+<div align="center">
+ 
      ![giphy](https://user-images.githubusercontent.com/89888198/213287284-e855c297-614c-4e55-87cf-c64c18e2f03e.gif)
-  </div>
   
   <div>
     <img align="center" alt="Macedo-Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
