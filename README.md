@@ -4,7 +4,7 @@
  
  <div align="center">
   <img src="https://user-images.githubusercontent.com/89888198/213287769-b4d78464-a121-4485-82b6-87e05988195c.gif">
-    <a href="https://www.linkedin.com/in/macedooo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h2>A developer with a lot of issues... I will finish all of them</h2>
  </div>
  
   <div>
